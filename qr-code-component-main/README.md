@@ -64,7 +64,6 @@ I also learned how to utilize var in a color for easier reference:
 
 After trying to recreate the link of QR Code Component, I found that box-shadow is the CSS attributes that I struggled to do the most as the shadow reference as I struggling to grasp the exact thickness of the shadow, I also struggle to determine how many numbers that I should make to replicate the shadows.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
@@ -80,9 +79,8 @@ After trying to recreate the link of QR Code Component, I found that box-shadow 
 ## Author
 
 - Website - [Yasmin Nurjanah](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@yasminsource](https://www.frontendmentor.io/profile/yasminsource))
+- Twitter - [@vyawct](https://www.twitter.com/vyawct)
+- Discord - @yasmin_82595
 
 
