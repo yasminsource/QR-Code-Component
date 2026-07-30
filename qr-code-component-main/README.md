@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GitHub Repository: https://github.com/yasminsource/QR-Code-Component
+- Live Site URL: https://yasminsource-qr-code-component.vercel.app/
 
 ## My process
 Hi! It took me around 6 hours to setup my Fronend Mentor projects, coding this challenge, along with writing README.
